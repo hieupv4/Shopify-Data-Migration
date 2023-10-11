@@ -1,0 +1,21 @@
+{
+  "name": "migration-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --es-module-specifier-resolution=node index.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Hieu Pham",
+    "email": "hieupham@meowcart.net",
+    "url": "https://meowcart.net"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@meowapp/meowlog": "^1.0.4",
+    "axios": "^1.5.1"
+  }
+}

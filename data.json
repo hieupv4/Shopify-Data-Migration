@@ -1,0 +1,7717 @@
+[{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08871"
+  },
+  "id": "gid://shopify/Location/88809013527",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA004",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198288646423",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "12427370",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198288679191",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198288711959",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198565634327",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA004] MYKINGDOM HOÀNG HOA THÁM",
+  "address": {
+    "address1": "140A Hoàng Hoa Thám, P.12, Quận Tân Bình, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "766",
+    "city": "Quận Tân Bình",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.8015563,
+    "longitude": 106.6475112,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.663Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08872"
+  },
+  "id": "gid://shopify/Location/88371626263",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA007",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30163846988055"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30163847020823"
+      }
+    ]
+  },
+  "name": "[CHA007] MYKINGDOM MẠC ĐĨNH CHI",
+  "address": {
+    "address1": "Lotte Mart",
+    "address2": "Khu dân cư Hùng Vương, P. Phú Thủy",
+    "provinceCode": null,
+    "zip": "77120",
+    "city": "Thành phố Phan Thiết",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.664Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-09T14:23:58.458Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08873"
+  },
+  "id": "gid://shopify/Location/87311417623",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10025",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30001615929623",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA015",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30175995068695",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176567132439",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "80.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30183556940055",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA015] MYKINGDOM KHÁNH HỘI (Q4)",
+  "address": {
+    "address1": "199 Đường Khánh Hội",
+    "address2": "Phường 3, Quận 4",
+    "provinceCode": null,
+    "zip": "70000",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.665Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08874"
+  },
+  "id": "gid://shopify/Location/88809701655",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA039",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198300934423",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "86653406",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198300967191",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198300999959",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198571204887",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA039] MYKINGDOM HẬU GIANG - Q6",
+  "address": {
+    "address1": "646-666 Hậu Giang, P.12, Quận 6, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "775",
+    "city": "Quận 6",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.674Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08875"
+  },
+  "id": "gid://shopify/Location/87319773463",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10005",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30002271879447",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30152817803543",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176740409623",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "50361528",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176740442391",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA041",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177105182999",
+        "type": "single_line_text_field"
+      }
+    ]
+  },
+  "name": "[CHA041] MYKINGDOM NGUYỄN GIA TRÍ",
+  "address": {
+    "address1": "63 đường Nguyễn Gia Trí, P.25, Quận Bình Thạnh, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "765",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08876"
+  },
+  "id": "gid://shopify/Location/86346563863",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA043",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873553178903",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "169716",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873553211671",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30153334948119",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30153334980887",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA043] MYKINGDOM LÊ QUANG ĐỊNH",
+  "address": {
+    "address1": "324 Lê Quang Định, P.11, Quận Bình Thạnh",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.8096218,
+    "longitude": 106.6931944,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08877"
+  },
+  "id": "gid://shopify/Location/87319970071",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10030",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30002279055639",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA044",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30439990788375",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30463478071575",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA044] MYKINGDOM LÊ VĂN SỸ - TÂN BÌNH",
+  "address": {
+    "address1": "389 Lê Văn Sĩ, P.2",
+    "address2": "Quận Tân Bình",
+    "provinceCode": null,
+    "zip": "766",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.788977,
+    "longitude": 106.6732693,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08878"
+  },
+  "id": "gid://shopify/Location/87320068375",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10002",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30002284855575",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA052",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262297788695",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262297821463",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30463479054615",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA052] MYKINGDOM TRƯƠNG CÔNG ĐỊNH - TÂN BÌNH",
+  "address": {
+    "address1": "204 Trương Công Định, P.14, Quận Tân Bình, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Tân Bình",
+    "provinceCode": null,
+    "zip": "766",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08879"
+  },
+  "id": "gid://shopify/Location/87320166679",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10013",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30002289148183",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA053",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198302933271",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "200028633",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198302966039",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198302998807",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198571467031",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA053] MYKINGDOM TRẦN NÃO - (Q2)",
+  "address": {
+    "address1": "133 Trần Não",
+    "address2": "P. Bình An, Quận 2",
+    "provinceCode": null,
+    "zip": "713530",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0887a"
+  },
+  "id": "gid://shopify/Location/88442011927",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176730644759",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "85899273",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176730677527",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA057",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177103905047",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198488727831",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA057] MYKINGDOM LŨY BÁN BÍCH - TÂN PHÚ",
+  "address": {
+    "address1": "636 Lũy Bán Bích, P. Tân Thành, Quận Tân Phú, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Quận Tân Phú",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7883885,
+    "longitude": 106.6371905,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0887b"
+  },
+  "id": "gid://shopify/Location/87320232215",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "dropshipping",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30082972909847",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA061",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177098760471",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262326133015",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30463478432023",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA061] MYKINGDOM NGUYỄN OANH - GÒ VẤP",
+  "address": {
+    "address1": "197 Nguyễn Oanh, P.17, Quận Gò Vấp, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Gò Vấp",
+    "provinceCode": null,
+    "zip": "764",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0887c"
+  },
+  "id": "gid://shopify/Location/86346236183",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA064",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873536532759",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "170282",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873536565527",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176937640215",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176937672983",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA064] MYKINGDOM NGUYỄN TRÃI (Q5)",
+  "address": {
+    "address1": "69 Đường Nguyễn Trãi",
+    "address2": "Phường 2, Quận 5",
+    "provinceCode": null,
+    "zip": "70000",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0887d"
+  },
+  "id": "gid://shopify/Location/85358412055",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA065",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29798908723479",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "390248",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873522147607",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30163468550423",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176960184599",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10019",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177295270167",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177295302935",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30182192480535",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10019",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30183021871383",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "200029725",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30195565986071",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30195566018839",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA065] MYKINGDOM QUANG TRUNG",
+  "address": {
+    "address1": "1234 Quang Trung, P.8, Quận Gò Vấp",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "10000",
+    "city": "Ho Chi Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": "+84231457621"
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0887e"
+  },
+  "id": "gid://shopify/Location/88809439511",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA066",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198298312983",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "86653039",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198298345751",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198298378519",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198569992471",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA066] MYKINGDOM QUỐC LỘ 50 - Q8",
+  "address": {
+    "address1": "256 Liên Tỉnh 5, phường 6, Quận 8, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "776",
+    "city": "Quận 8",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0887f"
+  },
+  "id": "gid://shopify/Location/87320264983",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10003",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30002293899543",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA070",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177096827159",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177272725783",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177272758551",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA070] MYKINGDOM 553 XÔ VIẾT NGHỆ TĨNH - BÌNH  THẠNH",
+  "address": {
+    "address1": "553 Xô Viết Nghệ Tĩnh, P.26, Quận Bình Thạnh, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Bình Thạnh",
+    "provinceCode": null,
+    "zip": "765",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08880"
+  },
+  "id": "gid://shopify/Location/87320625431",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10010",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30002317361431",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA072",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198301851927",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "86654749",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198301884695",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198301917463",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198571401495",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA072] MYKINGDOM NGUYỄN THỊ THẬP - Q7",
+  "address": {
+    "address1": "429 Nguyễn Thị Thập, P. Tân Phong, Quận 7, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận 7",
+    "provinceCode": null,
+    "zip": "778",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08881"
+  },
+  "id": "gid://shopify/Location/86345679127",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA073",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873517003031",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "168473",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873517035799",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176892944663",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "80.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176892977431",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA073] MYKINGDOM NGUYỄN TRÃI (Q1)",
+  "address": {
+    "address1": "B54 Nguyễn Trãi",
+    "address2": "Phường Nguyễn Cư Trinh, Quận 1",
+    "provinceCode": null,
+    "zip": "70000",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08882"
+  },
+  "id": "gid://shopify/Location/87247913239",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA074",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994336846103",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "281650",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994336878871",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177236746519",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177236779287",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA074] MYKINGDOM NGUYỄN TRI PHƯƠNG - Q10",
+  "address": {
+    "address1": "341 Nguyễn Tri Phương, P.5, Quận 10",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7623354,
+    "longitude": 106.6681048,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08883"
+  },
+  "id": "gid://shopify/Location/88809603351",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA075",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198299722007",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "86653162",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198299754775",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198299787543",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198570058007",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA075] MYKINGDOM NGUYỄN ẢNH THỦ",
+  "address": {
+    "address1": "74/2-308A Nguyễn Ảnh Thủ, Quận 12, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "761",
+    "city": "Quận 12",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08884"
+  },
+  "id": "gid://shopify/Location/88442405143",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176759382295",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "86585462",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176759415063",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA090",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177114259735",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198490890519",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA090] MYKINGDOM VÕ VĂN NGÂN - THỦ ĐỨC",
+  "address": {
+    "address1": "88 Võ Văn Ngân, Phường Bình Thọ, Quận Thủ Đức, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "762",
+    "city": "Quận Thủ Đức",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08885"
+  },
+  "id": "gid://shopify/Location/87320723735",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "dropshipping",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30002322178327",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA091",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198488432919",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198488465687",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262264004887",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA091] MYKINGDOM 55-57 XÔ VIẾT NGHỆ TĨNH - BÌNH THẠNH",
+  "address": {
+    "address1": "55-57 Xô Viết Nghệ Tĩnh, P17, Quận Bình Thạnh, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Bình Thạnh",
+    "provinceCode": null,
+    "zip": "765",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08886"
+  },
+  "id": "gid://shopify/Location/88442241303",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "80.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176747684119",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "90730536",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176747716887",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA093",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177109147927",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198490693911",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA093] MYKINGDOM TRƯỜNG CHINH Q12",
+  "address": {
+    "address1": "76 Trường Chinh, P.Tân Hưng Thuận, Quận 12, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "761",
+    "city": "Quận 12",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08887"
+  },
+  "id": "gid://shopify/Location/87650435351",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10014",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30082984182039",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA095",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177307558167",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177307590935",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177307623703",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA095] MYKINGDOM ĐỖ XUÂN HỢP",
+  "address": {
+    "address1": "352 Đỗ Xuân Hợp, Phước Long B, Quận 9, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận 9",
+    "provinceCode": null,
+    "zip": "763",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08888"
+  },
+  "id": "gid://shopify/Location/87320822039",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10009",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30082979266839",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA097",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177278558487",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177278591255",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177278624023",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA097] MYKINGDOM HUỲNH TẤN PHÁT – Q7",
+  "address": {
+    "address1": "402A Huỳnh Tấn Phát, Phường Tân Thuận, Quận 7, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận 7",
+    "provinceCode": null,
+    "zip": "778",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08889"
+  },
+  "id": "gid://shopify/Location/87320953111",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10014",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30002328731927",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA099",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30182105186583",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "36803863",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198291431703",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198291464471",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198569042199",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA099] MYKINGDOM HAI BÀ TRƯNG - Q1HCM",
+  "address": {
+    "address1": "394 Hai Bà Trưng, Phường Tân Định, Quận 1, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận 1",
+    "provinceCode": null,
+    "zip": "760",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0888a"
+  },
+  "id": "gid://shopify/Location/87650107671",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10021",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30082983821591",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA102",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177305067799",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177305100567",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177305133335",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA102] MYKINGDOM PHAN VĂN TRỊ - GÒ VẤP",
+  "address": {
+    "address1": "471 PHAN VĂN TRỊ, PHƯỜNG 05, Quận Gò Vấp, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Gò Vấp",
+    "provinceCode": null,
+    "zip": "764",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0888b"
+  },
+  "id": "gid://shopify/Location/87649976599",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10022",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30082983231767",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA110",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177302774039",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177302806807",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177302839575",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA110] MYKINGDOM THỐNG NHẤT-GÒ VẤP",
+  "address": {
+    "address1": "485A Thống Nhất, Phường 16, Quận Gò Vấp, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Gò Vấp",
+    "provinceCode": null,
+    "zip": "764",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0888c"
+  },
+  "id": "gid://shopify/Location/87382163735",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10007",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30005792833815",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA115",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177327776023",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177327808791",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177327841559",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA115] MYKINGDOM LÊ VĂN DUYỆT",
+  "address": {
+    "address1": "Số 77-79 Lê Văn Duyệt, Phường 3, Quận Bình Thạnh, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Bình Thạnh",
+    "provinceCode": null,
+    "zip": "765",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0888d"
+  },
+  "id": "gid://shopify/Location/87649812759",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10027",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30082982117655",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA118",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177102168343",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177299071255",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177299104023",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA118] MYKINGDOM PHỔ QUANG-PHÚ NHUẬN",
+  "address": {
+    "address1": "119L Phổ Quang, Quận Phú Nhuận, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Phú Nhuận",
+    "provinceCode": null,
+    "zip": "768",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0888e"
+  },
+  "id": "gid://shopify/Location/87383277847",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10008",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30005830385943",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA120",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262290940183",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262290972951",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30463476597015",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA120] MYKINGDOM 759  KHA VẠN CÂN THỦ ĐỨC",
+  "address": {
+    "address1": "759 Kha Vạn Cân, Phước Long, Quận Thủ Đức, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận Thủ Đức",
+    "provinceCode": null,
+    "zip": "762",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad0888f"
+  },
+  "id": "gid://shopify/Location/86346596631",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA122",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873556488471",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "277663",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873556521239",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176949207319",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176949240087",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA122] MYKINGDOM ÂU CƠ TÂN BÌNH",
+  "address": {
+    "address1": "436 Âu Cơ, Phường 10, Quận Tân Bình",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7787711,
+    "longitude": 106.6453986,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08890"
+  },
+  "id": "gid://shopify/Location/85324366103",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA123",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29798893650199"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "183315",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873527718167"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176946454807"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "80.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176946487575"
+      }
+    ]
+  },
+  "name": "[CHA123] MYKINGDOM LÊ VĂN QUỚI",
+  "address": {
+    "address1": "174 Lê Văn Quới, Phường Bình Hưng Hòa A, Quận Bình Tân",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "10000",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": "+842836200562"
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-09T14:23:59.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08891"
+  },
+  "id": "gid://shopify/Location/87383114007",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10028",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30005822750999",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA125",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177333641495",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177333674263",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177333707031",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA125] MYKINGDOM LÊ VĂN KHƯƠNG Q12",
+  "address": {
+    "address1": "164 Lê Văn Khương, Thới An, Quận 12, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận 12",
+    "provinceCode": null,
+    "zip": "761",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.682Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08892"
+  },
+  "id": "gid://shopify/Location/87247225111",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "174227",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994323345687",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA127",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994343956759",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177200898327",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177200931095",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA127] MYKINGDOM NGUYỄN DUY TRINH Q2",
+  "address": {
+    "address1": "273 Đường Nguyễn Duy Trinh",
+    "address2": "Phường Bình Trưng Tây, Quận 2",
+    "provinceCode": null,
+    "zip": "70000",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.682Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08893"
+  },
+  "id": "gid://shopify/Location/88809799959",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA130",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198303818007",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "76797034",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198303850775",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198303883543",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198571499799",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA130] MYKINGDOM 486 QUANG TRUNG GÒ VẤP",
+  "address": {
+    "address1": "486 Quang Trung, Phường 10, Quận Gò Vấp, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "764",
+    "city": "Quận Gò Vấp",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.682Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08894"
+  },
+  "id": "gid://shopify/Location/88442175767",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176743915799",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "86927525",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176743948567",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA131",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177107804439",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198490366231",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA131] MYKINGDOM NGUYỄN THIỆN THUẬT",
+  "address": {
+    "address1": "08 Nguyễn Thiện Thuật Phường 2, Quận 3, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "770",
+    "city": "Quận 3",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.683Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08895"
+  },
+  "id": "gid://shopify/Location/86345613591",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA135",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873510416663",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "169692",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873510449431",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176889143575",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176889176343",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA135] MYKINGDOM PHẠM HỮU LẦU",
+  "address": {
+    "address1": "98 Phạm Hữu Lầu, Phường Phú Mỹ, Quận 7",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "75000",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7048053,
+    "longitude": 106.7337062,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.683Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08896"
+  },
+  "id": "gid://shopify/Location/87383179543",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10023",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30005827666199",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA136",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262254993687",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262255026455",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30463460016407",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA136] MYKINGDOM QUANG TRUNG HÓC MÔN",
+  "address": {
+    "address1": "60/10  Quang Trung, Thị  Trấn Hóc Môn, Huyện Hóc Môn, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Thị  Trấn Hóc Môn, Huyện Hóc Môn",
+    "provinceCode": null,
+    "zip": "784",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.683Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08897"
+  },
+  "id": "gid://shopify/Location/87247782167",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "269587",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994333765911",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA143",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994333864215",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177232224535",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177232257303",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA143] MYKINGDOM 125A HẬU GIANG - Q6",
+  "address": {
+    "address1": "125A Hậu Giang, Phường 5, Quận 6",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7494998,
+    "longitude": 106.6461654,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.683Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553a4f9ad464aad08898"
+  },
+  "id": "gid://shopify/Location/88442700055",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176781533463",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "36448657",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176781566231",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA145",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177104724247",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198489219351",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA145] MYKINGDOM 242A-244 LŨY BÁN BÍCH",
+  "address": {
+    "address1": "242A-244 Lũy Bán Bích, P. Hòa Thạnh, Quận Tân Phú, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "767",
+    "city": "Quận Tân Phú",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:38.683Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088aa"
+  },
+  "id": "gid://shopify/Location/87247388951",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "174229",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994327081239",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA149",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994344546583",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177202864407",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177202897175",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA149] MYKINGDOM QUỐC HƯƠNG - Q2",
+  "address": {
+    "address1": "16 Quốc Hương, phường Thảo Điền, Quận 2",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.8037904,
+    "longitude": 106.7320103,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088ab"
+  },
+  "id": "gid://shopify/Location/87247716631",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA150",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994345529623"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30463477055767"
+      }
+    ]
+  },
+  "name": "[CHA150] MYKINGDOM TỈNH LỘ 10 - BÌNH TÂN",
+  "address": {
+    "address1": "568-570 Tỉnh Lộ 10, khu phố 16, phường Bình Trị Đông, Quận Bình Tân",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7576964,
+    "longitude": 106.6162031,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-09T14:23:59.979Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088ac"
+  },
+  "id": "gid://shopify/Location/88442077463",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176734904599",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "37093647",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176734937367",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA153",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177104331031",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198488891671",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA153] MYKINGDOM KỲ ĐỒNG (Q3)",
+  "address": {
+    "address1": "16d Đường Kỳ Đồng",
+    "address2": "Phường 9, Quận 3",
+    "provinceCode": null,
+    "zip": "70000",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088ad"
+  },
+  "id": "gid://shopify/Location/88442536215",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176765673751",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "200029302",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176765706519",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA160",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177114816791",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198491119895",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA160] MYKINGDOM 771-773 NGUYỄN TRÃI",
+  "address": {
+    "address1": "771-773 Nguyễn Trãi, Phường 11, Quận 5, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "774",
+    "city": "Quận 5",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088ae"
+  },
+  "id": "gid://shopify/Location/87247847703",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA168",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994335338775"
+      },
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "269574",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994335371543"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177234649367"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "80.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177234682135"
+      }
+    ]
+  },
+  "name": "[CHA168] MYKINGDOM 416 LÊ VĂN SỸ",
+  "address": {
+    "address1": "416 Lê Văn Sỹ, Phường 14, Quận 3",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.78896,
+    "longitude": 106.676202,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-09T14:24:01.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088af"
+  },
+  "id": "gid://shopify/Location/88809308439",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA170",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198297198871",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "86652796",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198297231639",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198297264407",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198569533719",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA170] MYKINGDOM NGUYỄN THÁI HỌC",
+  "address": {
+    "address1": "89 Nguyễn Thái Học, P.Cầu Ông Lãnh, Quận 1, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "760",
+    "city": "Quận 1",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b0"
+  },
+  "id": "gid://shopify/Location/87383408919",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10006",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30005838774551",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA171",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262300541207",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30262300573975",
+        "type": "number_decimal"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30463481315607",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA171] MYKINGDOM CAO THẮNG",
+  "address": {
+    "address1": "62 Cao Thắng, Phường 05, Quận 3, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận 3",
+    "provinceCode": null,
+    "zip": "770",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b1"
+  },
+  "id": "gid://shopify/Location/87650468119",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10005",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30082985820439",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHA173",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177309819159",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177309851927",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177309884695",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA173] MYKINGDOM NGUYỄN THỊ ĐỊNH",
+  "address": {
+    "address1": "151K Nguyễn Thị Định, P.An Phú, Quận 2, TP.Hồ Chí Minh,Việt Nam",
+    "address2": "Quận 2",
+    "provinceCode": null,
+    "zip": "769",
+    "city": "TP.Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b2"
+  },
+  "id": "gid://shopify/Location/87649616151",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10031",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30082981396759",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHB003",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177292878103",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177292910871",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177292976407",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB003] MYKINGDOM ĐẠI CỒ VIỆT",
+  "address": {
+    "address1": "Số 91 Đại Cồ Việt, Quận Hai Bà Trưng, TP. Hà Nội,Việt Nam",
+    "address2": "Quận Hai Bà Trưng",
+    "provinceCode": null,
+    "zip": "007",
+    "city": "TP. Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b3"
+  },
+  "id": "gid://shopify/Location/87248109847",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB031",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994343858455",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "370919",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994343891223",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30163469697303",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177238941975",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB031] MYKINGDOM LÊ VĂN LƯƠNG",
+  "address": {
+    "address1": "18T2 Lê Văn Lương, Quận Thanh Xuân",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP. Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0065635,
+    "longitude": 105.8054795,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b4"
+  },
+  "id": "gid://shopify/Location/87247618327",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "241579",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994331472151",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHB038",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994345464087",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177205747991",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177205780759",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB038] MYKINGDOM KIM LIÊN",
+  "address": {
+    "address1": "Ki ốt 21,22 tập thể B4 Kim liên, Phạm Ngọc Thạch, Quận Đống Đa",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP. Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0100698,
+    "longitude": 105.8363536,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b5"
+  },
+  "id": "gid://shopify/Location/86346662167",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB053",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873559208215",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "240252",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29873559240983",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176947798295",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176947831063",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB053] MYKINGDOM VŨ TRỌNG PHỤNG",
+  "address": {
+    "address1": "Tòa 17T2  Hapulico Complex số 83 Vũ Trọng Phụng, Quận Thanh Xuân",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP. Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9999289,
+    "longitude": 105.8074895,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b6"
+  },
+  "id": "gid://shopify/Location/87247487255",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "233837",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994329309463",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHB076",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994344743191",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177204175127",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177204207895",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB076] MYKINGDOM MỸ ĐÌNH",
+  "address": {
+    "address1": "Tầng 1 và tầng 2, SN 23, dãy TT4, Dự án HD MON City, phường Mỹ Đình 2, Quận Nam Từ Liêm",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "TP. Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0347858,
+    "longitude": 105.7665285,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b7"
+  },
+  "id": "gid://shopify/Location/87383048471",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10029",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30005819539735",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "hub_id",
+        "value": "CHB097",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177329545495",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177329578263",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177329611031",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB097] MYKINGDOM MINH KHAI - HAI BÀ TRƯNG",
+  "address": {
+    "address1": "Số 430 Minh Khai, Vĩnh Tuy, Quận Hai Bà Trưng, TP. Hà Nội,Việt Nam",
+    "address2": "Quận Hai Bà Trưng",
+    "provinceCode": null,
+    "zip": "007",
+    "city": "TP. Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b8"
+  },
+  "id": "gid://shopify/Location/85358346519",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB138",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29798874841367",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_mkd_warehouse_id",
+        "value": "313695",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29812750024983",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176950092055",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30176950124823",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB138] MYKINGDOM LINH ĐÀM 02",
+  "address": {
+    "address1": "Số 26BT2, đường Nguyễn Hữu Thọ, khu đô thị Bắc Linh Đàm, Quận Hoàng Mai",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "10000",
+    "city": "TP. Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": null,
+    "longitude": null,
+    "phone": "+8423456789"
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6522553b4f9ad464aad088b9"
+  },
+  "id": "gid://shopify/Location/87248044311",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHMPLACE",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994341597463",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "tiki_lego_warehouse_id",
+        "value": "323288",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/29994341630231",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177244479767",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiki_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177244512535",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_lego_warehouse_id",
+        "value": "VN1XT6M1-WH-10032",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177312932119",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "lazada_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30177312964887",
+        "type": "number_decimal"
+      },
+      {
+        "key": "lazada_mkd_warehouse_id",
+        "value": "VN103L8-WH-10031",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30185010790679",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "lazada_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30185010823447",
+        "type": "number_decimal"
+      },
+      {
+        "key": "shopee_mkd_warehouse_id",
+        "value": "37093241",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30195572277527",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30195572310295",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiktokshop_mkd_warehouse_id",
+        "value": "7095621579593336582",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30195711607063",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_warehouse_id",
+        "value": "113396781",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198304899351",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "shopee_lego_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30198304932119",
+        "type": "number_decimal"
+      },
+      {
+        "key": "tiktokshop_mkd_stock_qty_percent",
+        "value": "90.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30260906721559",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHMPLACE] Kho Cửa hàng Market Place",
+  "address": {
+    "address1": "333a Lãnh Binh Thăng",
+    "address2": "Phường 9, Q 11",
+    "provinceCode": null,
+    "zip": "70000",
+    "city": "Ho Chi Minh City",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7648334,
+    "longitude": 106.6470105,
+    "phone": "+842854318717"
+  },
+  "createdAt": {
+    "$date": "2023-10-08T07:07:39.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bddd"
+  },
+  "id": "gid://shopify/Location/92787409175",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA018",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30802940887319",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30802940920087",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA018] MYKINGDOM CMT8 BÌNH DƯƠNG",
+  "address": {
+    "address1": "Số 495 CMT8, P. Phú Cường, TX. Thủ Dầu Một",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bình Dương",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.9870279,
+    "longitude": 106.6530784,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bdde"
+  },
+  "id": "gid://shopify/Location/92787376407",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA023",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30802642075927",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30802642108695",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA023] MYKINGDOM 30-04 CẦN THƠ",
+  "address": {
+    "address1": "Số 52 Đường 30/4, P. An Phú, Q. Ninh Kiều",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Cần Thơ",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.030815,
+    "longitude": 105.7799446,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bddf"
+  },
+  "id": "gid://shopify/Location/92787671319",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA032",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803527860503",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803527893271",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA032] MYKINGDOM TRẦN PHÚ - BẠC LIÊU",
+  "address": {
+    "address1": "73 Trần Phú, Phường 7, Thành phố Bạc Liêu, Tỉnh Bạc Liêu",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bạc Liêu",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 9.2888655,
+    "longitude": 105.7217027,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde0"
+  },
+  "id": "gid://shopify/Location/92787998999",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA034",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803945390359",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803945423127",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA034] MYKINGDOM PHẠM HÙNG",
+  "address": {
+    "address1": "C5/20 Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, Thành phố Hồ Chí Minh",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7295538,
+    "longitude": 106.6766245,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.475Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde1"
+  },
+  "id": "gid://shopify/Location/92788195607",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA035",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804189249815",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804189282583",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA035] MYKINGDOM TRẦN HƯNG ĐẠO - CÀ MAU",
+  "address": {
+    "address1": "43B Trần Hưng Đạo khóm 4 phường 5, Thành phố Cà Mau, tỉnh Cà Mau",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Cà Mau",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 9.1796621,
+    "longitude": 105.1564494,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.475Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde2"
+  },
+  "id": "gid://shopify/Location/92788359447",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA037",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804307935511",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804307968279",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA037] MYKINGDOM MẬU THÂN - CẦN THƠ",
+  "address": {
+    "address1": "Số 21B Mậu Thân, Q. Ninh Kiều, TP. Cần Thơ",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Cần Thơ",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.0272537,
+    "longitude": 105.7698039,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.475Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde3"
+  },
+  "id": "gid://shopify/Location/92788719895",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA038",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804653474071",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804653506839",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA038] MYKINGDOM HÙNG VƯƠNG - GIA LAI",
+  "address": {
+    "address1": "101 Hùng Vương, P. Hội Thương, TP. Pleiku, Tỉnh Gia Lai",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Gia Lai",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 13.9769995,
+    "longitude": 108.002619,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde4"
+  },
+  "id": "gid://shopify/Location/92789571863",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA047",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805492597015",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805492629783",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA047] MYKINGDOM NGUYỄN SƠN - TÂN PHÚ",
+  "address": {
+    "address1": "121 Nguyễn Sơn, P .Phú Thạnh, Quận Tân Phú",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7820992,
+    "longitude": 106.6283512,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.492Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde5"
+  },
+  "id": "gid://shopify/Location/92789932311",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA048",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805599551767",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805599584535",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA048] MYKINGDOM NGUYỄN VĂN LUÔNG",
+  "address": {
+    "address1": "Số 463 Nguyễn Văn Luông, P.12 , Q.6",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7528712,
+    "longitude": 106.6345415,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.492Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde6"
+  },
+  "id": "gid://shopify/Location/92790292759",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA055",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805623832855",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805623865623",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA055] MYKINGDOM KIÊN GIANG",
+  "address": {
+    "address1": "Số 462 Nguyễn Trung Trực, phường Vĩnh Lạc, TP Rạch Gía, Kiên Giang",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Kiên Giang",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 9.9936905,
+    "longitude": 105.0946171,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.494Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde7"
+  },
+  "id": "gid://shopify/Location/92790456599",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA056",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805633433879",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805633466647",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA056] MYKINGDOM LONG XUYÊN",
+  "address": {
+    "address1": "Số 222 Trần Hưng Đạo, P. Mỹ Bình, Long Xuyên",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "An Giang",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.3847477,
+    "longitude": 105.4365351,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.495Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde8"
+  },
+  "id": "gid://shopify/Location/92790358295",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA059",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805629042967",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805629075735",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA059] MYKINGDOM MỸ THO",
+  "address": {
+    "address1": "Số 11 Ấp Bắc, Phường 4, Thành phố Mỹ Tho, Tỉnh Tiền Giang",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Tiền Giang",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.362624,
+    "longitude": 106.3603673,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.496Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bde9"
+  },
+  "id": "gid://shopify/Location/92790325527",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA060",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805624586519",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805624619287",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA060] MYKINGDOM ĐIỆN BIÊN PHỦ - ĐÀ NẴNG",
+  "address": {
+    "address1": "Số 516 Điện Biên Phủ, P. Thanh Khê Đông, Q. Thanh Khê, TP. Đà Nẵng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đà Nẵng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.065826,
+    "longitude": 108.185223,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.496Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bdea"
+  },
+  "id": "gid://shopify/Location/92790227223",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA062",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805617049879",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805617082647",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA062] MYKINGDOM NHA TRANG",
+  "address": {
+    "address1": "Số 69 Quang Trung, Phường Lộc Thọ, Thành Phố Nha Trang, Tỉnh Khánh Hòa",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Khánh Hòa",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 12.24544,
+    "longitude": 109.1918605,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.497Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bdeb"
+  },
+  "id": "gid://shopify/Location/92790096151",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA063",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805608857879",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805608890647",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA063] MYKINGDOM TRƯNG NỮ VƯƠNG - ĐÀ NẴNG",
+  "address": {
+    "address1": "Số 197-199 Trưng Nữ Vương, P. Hòa Thuận, Q. Hải Châu",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đà Nẵng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.0539704,
+    "longitude": 108.2194402,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.497Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bdec"
+  },
+  "id": "gid://shopify/Location/92789997847",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA068",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805602074903",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805602107671",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA068] MYKINGDOM BA CU VŨNG TÀU",
+  "address": {
+    "address1": "Số 112 Ba Cu, P.3, TP. Vũng Tàu",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bà Rịa - Vũng Tàu",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.3505888,
+    "longitude": 107.0784207,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.509Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bded"
+  },
+  "id": "gid://shopify/Location/92789834007",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA069",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805597389079",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805597421847",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA069] MYKINGDOM VŨNG TÀU",
+  "address": {
+    "address1": "Số 165 Lê Hồng Phong, P.8, TP.Vũng Tàu",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bà Rịa - Vũng Tàu",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.3533967,
+    "longitude": 107.0871559,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.509Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bdee"
+  },
+  "id": "gid://shopify/Location/92789735703",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA076",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805586510103",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805586542871",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA076] MYKINGDOM PHẠM VĂN THUẬN",
+  "address": {
+    "address1": "Số 1054 Phạm Văn Thuận, P. Thống Nhất , TP. Biên Hòa",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đồng Nai",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.9570512,
+    "longitude": 106.8462083,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cfe0c69882cfc21bdef"
+  },
+  "id": "gid://shopify/Location/92789670167",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA077",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805569929495",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805569962263",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA077] MYKINGDOM TÂY NINH",
+  "address": {
+    "address1": "Số 761 Cách Mạng Tháng Tám , KP2, Phường 3, TP. Tây Ninh",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Tây Ninh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 11.3089236,
+    "longitude": 106.1133865,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:58.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be19"
+  },
+  "id": "gid://shopify/Location/92789539095",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA092",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805472739607",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805472772375",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA092] MYKINGDOM PHAN BỘI CHÂU - QUY NHƠN",
+  "address": {
+    "address1": "Số 236A Phan Bội Châu, TP. Quy Nhơn",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bình Định",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 13.7762284,
+    "longitude": 109.2290374,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.984Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:38.936Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be1a"
+  },
+  "id": "gid://shopify/Location/92789440791",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA098",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805389967639",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805390000407",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA098] MYKINGDOM QUẢNG NGÃI",
+  "address": {
+    "address1": "Số 632 Quang Trung , P. Chánh Lộ, TP. Quang Ngãi",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Quảng Ngãi",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 15.1171575,
+    "longitude": 108.8066332,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.986Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be1b"
+  },
+  "id": "gid://shopify/Location/92789342487",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA103",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805308080407",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805308113175",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA103] MYKINGDOM LÃNH BINH THĂNG",
+  "address": {
+    "address1": "Số 333A Lãnh Bình Thăng, Phường 9 Q.11",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7648334,
+    "longitude": 106.6470105,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.987Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be1c"
+  },
+  "id": "gid://shopify/Location/92789244183",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA104",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805242085655",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805242118423",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA104] MYKINGDOM CAO LÃNH – ĐỒNG THÁP",
+  "address": {
+    "address1": "Số 198 Đường Nguyễn Huệ, P2, TP. Cao Lãnh, Tỉnh Đồng Tháp",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đồng Tháp",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.4577845,
+    "longitude": 105.638996,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be1d"
+  },
+  "id": "gid://shopify/Location/92789113111",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA107",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805029126423",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805029159191",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA107] MYKINGDOM NGUYỄN HỮU THỌ - ĐÀ NẴNG",
+  "address": {
+    "address1": "Số 275 Nguyễn Hữu Thọ,P.Hòa Cường Bắc, Đà Nẵng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đà Nẵng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.0415343,
+    "longitude": 108.2105947,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be1e"
+  },
+  "id": "gid://shopify/Location/92789080343",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA109",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804967588119",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804967620887",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA109] MYKINGDOM XÔ VIẾT NGHỆ TỈNH - SÓC TRĂNG",
+  "address": {
+    "address1": "Số 128-130 Đường Xô Viết Nghệ Tĩnh, Phường 6, Thành Phố Sóc Trăng, Tỉnh Sóc Trăng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Sóc Trăng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 9.6085432,
+    "longitude": 105.9730403,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.988Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be1f"
+  },
+  "id": "gid://shopify/Location/92787474711",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA112",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803245760791",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803245793559",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA112] MYKINGDOM PHAN HUY ÍCH - TÂN BÌNH",
+  "address": {
+    "address1": "Số 70 Phan Huy Ích , Phường 15 , Q Tân Bình",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.8271538,
+    "longitude": 106.6315999,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be20"
+  },
+  "id": "gid://shopify/Location/92787540247",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA117",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803337117975",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803337150743",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA117] MYKINGDOM HÙNG VƯƠNG - CAM RANH",
+  "address": {
+    "address1": "Số 2243 Đại lộ Hùng Vương, Phường Cam Lợi, Thành phố Cam Ranh, Tỉnh Khánh Hòa.",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Khánh Hòa",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 11.9168816,
+    "longitude": 109.1429497,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be21"
+  },
+  "id": "gid://shopify/Location/92787605783",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA121",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803501089047",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803501121815",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA121] MYKINGDOM HAI BÀ TRƯNG - HỘI AN",
+  "address": {
+    "address1": "Số 606 Hai Bà Trưng, P.Cẩm Phổ, TP Hội An, tỉnh Quảng Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Quảng Nam",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 15.8828786,
+    "longitude": 108.324623,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.990Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be22"
+  },
+  "id": "gid://shopify/Location/92787769623",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA124",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803584549143",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803584581911",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA124] MYKINGDOM HÙNG VƯƠNG - ĐÀ NẴNG",
+  "address": {
+    "address1": "Số 307 Đường Hùng Vương, Phường Vĩnh Trung, Quận Thanh Khê, TP Đà Nẵng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đà Nẵng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.066613,
+    "longitude": 108.2118313,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.992Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be23"
+  },
+  "id": "gid://shopify/Location/92787835159",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA133",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803696615703",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803696648471",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA133] MYKINGDOM BIÊN HÒA",
+  "address": {
+    "address1": "khu phố 8, Phường Tân Phong, TP Biên Hòa, Tỉnh Đồng Nai",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đồng Nai",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.975372,
+    "longitude": 106.8505363,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be24"
+  },
+  "id": "gid://shopify/Location/92787867927",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA134",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803768148247",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803768181015",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA134] MYKINGDOM NGUYỄN VĂN THOẠI",
+  "address": {
+    "address1": "Số 35 Nguyễn Văn Thoại ,K Châu Qưới 3, Châu Phú B, Châu Đốc , An Giang",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "An Giang",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7098143,
+    "longitude": 105.1176271,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.994Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240cff0c69882cfc21be25"
+  },
+  "id": "gid://shopify/Location/92787966231",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA137",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803893223703",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803893256471",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA137] MYKINGDOM ĐỒNG XOÀI",
+  "address": {
+    "address1": "Số 1137 đường Phú Riềng Đỏ, P Tân Bình , TP. Đồng Xoài, Tỉnh Bình Phước",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bình Phước",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 11.5368382,
+    "longitude": 106.9015579,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:23:59.995Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d000c69882cfc21be26"
+  },
+  "id": "gid://shopify/Location/92788064535",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA144",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803997065495",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803997098263",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA144] MYKINGDOM PHÚ YÊN",
+  "address": {
+    "address1": "Số 190 Lê lợi ,Phường 4, TP Tuy Hòa, Tỉnh Phú Yên",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Phú Yên",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 13.089452,
+    "longitude": 109.3090226,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:00.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d000c69882cfc21be27"
+  },
+  "id": "gid://shopify/Location/92788097303",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA152",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804106084631",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804106117399",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA152] MYKINGDOM TAM KỲ",
+  "address": {
+    "address1": "367 Phan Chu Trinh, P. Phước Hòa, TP Tam Kỳ, Tỉnh Quảng Nam",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Quảng Nam",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 15.5666759,
+    "longitude": 108.4924931,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:00.009Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d000c69882cfc21be28"
+  },
+  "id": "gid://shopify/Location/92788261143",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA158",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804194296087",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804194328855",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA158] MYKINGDOM COOPMART HUẾ",
+  "address": {
+    "address1": "Tầng trệt TTTM Trường Tiền Plaza, 6 Trần Hưng Đạo, P.Phú Hòa. Tp Huế",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Thừa Thiên Huế",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.4710703,
+    "longitude": 107.5876627,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:00.025Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d000c69882cfc21be29"
+  },
+  "id": "gid://shopify/Location/92788293911",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA161",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804264812823",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804264845591",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA161] MYKINGDOM VĨNH LONG",
+  "address": {
+    "address1": "58 Trưng Nữ Vương P1 Tp.Vĩnh Long",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Vĩnh Long",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.2539421,
+    "longitude": 105.9706025,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:00.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be53"
+  },
+  "id": "gid://shopify/Location/92788457751",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA164",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804397195543",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804397228311",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA164] MYKINGDOM THÀNH THÁI",
+  "address": {
+    "address1": "131 Thành Thái, P13, Q10",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7744273,
+    "longitude": 106.6642473,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.230Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:40.040Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be54"
+  },
+  "id": "gid://shopify/Location/92788523287",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA172",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804481245463",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804481278231",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA172] MYKINGDOM LÊ VĂN VIỆT",
+  "address": {
+    "address1": "Số 42 Lê Văn Việt, Hiệp Phú, Q.9",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.8474597,
+    "longitude": 106.7760833,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.233Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be55"
+  },
+  "id": "gid://shopify/Location/92788588823",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA174",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804550942999",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804550975767",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA174] MYKINGDOM NGUYỄN VĂN THOẠI – ĐÀ NẴNG",
+  "address": {
+    "address1": "68 Nguyễn Văn Thoại, Phường Mỹ An, Quận Ngũ Hành Sơn, Tp Đà Nẵng.",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đà Nẵng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.0542277,
+    "longitude": 108.2399182,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.233Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be56"
+  },
+  "id": "gid://shopify/Location/92788654359",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA175",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804608254231",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804608286999",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA175] MYKINGDOM BÀ RỊA VŨNG TÀU",
+  "address": {
+    "address1": "323 Cách Mạng Tháng 8, phường Phước Nguyên, thành phố Bà Rịa, tỉnh Bà Rịa - Vũng Tàu",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bà Rịa Vũng Tàu",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.4991423,
+    "longitude": 107.180948,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.233Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be57"
+  },
+  "id": "gid://shopify/Location/92788752663",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA176",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804663173399",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804663206167",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA176] MYKINGDOM THỦ KHOA HUÂN",
+  "address": {
+    "address1": "Số 98 Thủ Khoa Huân, Khu phố 2, Phường Bình Hưng, thành phố Phan Thiết, tỉnh Bình Thuận",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bình Thuận",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.9322837,
+    "longitude": 108.1068986,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.233Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be58"
+  },
+  "id": "gid://shopify/Location/92788818199",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA177",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804727070999",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804727103767",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA177] MYKINGODM NGUYỄN AN NINH",
+  "address": {
+    "address1": "Số 371-373 Nguyễn An Ninh, Phường 9, Thành phố Vũng Tàu, Tỉnh Bà Rịa Vũng Tàu",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bà Rịa Vũng Tàu",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.3676279,
+    "longitude": 107.0858209,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.233Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be59"
+  },
+  "id": "gid://shopify/Location/92788850967",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA178",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804778352919",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804778385687",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA178] MYKINGDOM TÂN HƯƠNG",
+  "address": {
+    "address1": "135 Tân Hương, Phường Tân Quý, Quận Tân Phú",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7896284,
+    "longitude": 106.6248359,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be5a"
+  },
+  "id": "gid://shopify/Location/92788916503",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA180",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804830355735",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804830388503",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA180] MYKINGDOM SA ĐÉC",
+  "address": {
+    "address1": "245B Nguyễn Sinh Sắc, Khóm 2, Phường 2, Thành phố Sa Đéc, Tỉnh Đồng Tháp",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đồng Tháp",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.2901871,
+    "longitude": 105.7661676,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be5b"
+  },
+  "id": "gid://shopify/Location/92788982039",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA182",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804887240983",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804887273751",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA182] MYKINGDOM TRẦN PHÚ- BẢO LỘC",
+  "address": {
+    "address1": "Số 452E Trần Phú, Phường 2, Thành phố Bảo Lộc, Tỉnh Lâm Đồng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Lâm Đồng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 11.5438899,
+    "longitude": 107.8039534,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be5c"
+  },
+  "id": "gid://shopify/Location/92788949271",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA183",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804841922839",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804841955607",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA183] MYKINGDOM CMT8 BIÊN HÒA",
+  "address": {
+    "address1": "143 Cách Mạng Tháng 8, phường Hòa Bình, thành phố Biên Hòa, Tỉnh Đồng Nai",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đồng Nai",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.9501708,
+    "longitude": 106.8124336,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be5d"
+  },
+  "id": "gid://shopify/Location/92789014807",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA185",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804941439255",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804941472023",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA185] MYKINGDOM LÊ HỒNG PHONG NHA TRANG",
+  "address": {
+    "address1": "Số 02 (lô 26,27) Lê Hồng Phong, Phường Phước Hải, TP Nha Trang, tỉnh Khánh Hòa",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Khánh Hòa",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 12.2475215,
+    "longitude": 109.1815532,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be5e"
+  },
+  "id": "gid://shopify/Location/92789276951",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA186",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805259092247",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805259125015",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA186] MYKINGDOM ĐÀ LẠT 3/2",
+  "address": {
+    "address1": "Lô B10, Bis 114 Ba Tháng Hai, Phường 5, Thành phố Đà Lạt, Tỉnh Lâm Đồng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Lâm Đồng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 11.9409827,
+    "longitude": 108.4315051,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be5f"
+  },
+  "id": "gid://shopify/Location/92789408023",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA188",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805371355415",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805371388183",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA188] MYKINGDOM LÊ VĂN HIẾN ĐÀ NẴNG",
+  "address": {
+    "address1": "62 Đường Lê Văn Hiến, phường Khuê Mỹ, quận Ngũ Hành Sơn, thành phố Đà Nẵng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đà Nẵng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.0357781,
+    "longitude": 108.243799,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be60"
+  },
+  "id": "gid://shopify/Location/92789506327",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA193",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805468217623",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805468250391",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA193] MYKINGDOM YÊN BÁI ĐÀ NẴNG",
+  "address": {
+    "address1": "Số 21 Yên Bái, phường Hải Châu 1, Quận Hải Châu, Thành phố Đà Nẵng.",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Đà Nẵng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.0695096,
+    "longitude": 108.222959,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be61"
+  },
+  "id": "gid://shopify/Location/92789637399",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHA196",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805537685783",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805537718551",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHA196] MYKINGDOM PHAN RANG",
+  "address": {
+    "address1": "101B Ngô Gia Tự, phường Thanh Sơn, Thành phố Phan Rang - Tháp Chàm, tỉnh Ninh Thuận",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Ninh Thuận",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 11.5730566,
+    "longitude": 108.9946563,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be62"
+  },
+  "id": "gid://shopify/Location/92790194455",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB001",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805612658967",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805612691735",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB001] MYKINGDOM TÂY SƠN",
+  "address": {
+    "address1": "Số 150 -152 Tây Sơn, Đống Đa",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0117995,
+    "longitude": 105.8256709,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be63"
+  },
+  "id": "gid://shopify/Location/92790391063",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB004",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805631467799",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805631500567",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB004] MYKINGDOM LÝ THƯỜNG KIỆT",
+  "address": {
+    "address1": "Ngõ Lý Thường Kiệt",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0242673,
+    "longitude": 105.8460124,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.235Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be64"
+  },
+  "id": "gid://shopify/Location/92790489367",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB005",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805636382999",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805636415767",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB005] MYKINGDOM NGUYỄN TRÃI",
+  "address": {
+    "address1": "309 Nguyễn Trãi",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9924578,
+    "longitude": 105.8050427,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.235Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be65"
+  },
+  "id": "gid://shopify/Location/92790587671",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB014",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805640642839",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805640675607",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB014] MYKINGDOM - NGUYỄN CHÍ THANH",
+  "address": {
+    "address1": "Số 93-95 Nguyễn Chí Thanh, Đống Đa",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0194475,
+    "longitude": 105.8083206,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.235Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be66"
+  },
+  "id": "gid://shopify/Location/92790751511",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB021",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805776826647",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805776859415",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB021] MYKINGDOM BẠCH MAI 02",
+  "address": {
+    "address1": "Số 311 Bạch Mai, Hai Bà Trưng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0014945,
+    "longitude": 105.8507448,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.235Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be67"
+  },
+  "id": "gid://shopify/Location/92790554903",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB022",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805639594263",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805639627031",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB022] MYKINGDOM BẮC GIANG",
+  "address": {
+    "address1": "306 Lê Lợi, TP Bắc Giang",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bắc Giang",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.2740958,
+    "longitude": 106.1987375,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.235Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be68"
+  },
+  "id": "gid://shopify/Location/92790882583",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB025",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805874901271",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805874934039",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB025] MYKINGDOM TRẦN PHÚ HÀ ĐÔNG",
+  "address": {
+    "address1": "Số 116-118 Trần Phú, Mộ Lao, Hà Đông",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9768201,
+    "longitude": 105.7832554,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be69"
+  },
+  "id": "gid://shopify/Location/92790948119",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB034",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805975171351",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805975204119",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB034] MYKINGDOM TRẦN PHÚ HÀ NỘI",
+  "address": {
+    "address1": "Số 7 Trần Phú, Ba Đình",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.030098,
+    "longitude": 105.8435167,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be6a"
+  },
+  "id": "gid://shopify/Location/92790620439",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB035",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805648834839",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805648867607",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB035] MYKINGDOM YÊN HÒA",
+  "address": {
+    "address1": "Tầng 1 toà Condomium Ngõ 259 Yên Hòa, Cầu Giấy ( Gần trường tiểu học Yên Hòa)",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0201321,
+    "longitude": 105.7939373,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be6b"
+  },
+  "id": "gid://shopify/Location/92790685975",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB036",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805736128791",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805736161559",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB036] MYKINGDOM YÊN LÃNG",
+  "address": {
+    "address1": "Số 87 Yên Lãng, Thịnh Quang, Đống Đa",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0111714,
+    "longitude": 105.8167618,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be6c"
+  },
+  "id": "gid://shopify/Location/92790784279",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB041",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805803204887",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805803237655",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB041] MYKINGDOM LẠNG SƠN",
+  "address": {
+    "address1": "79D Trần Đăng Ninh phường Tam Thanh, TP Lạng Sơn",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Lạng Sơn",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.8551228,
+    "longitude": 106.7563931,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be6d"
+  },
+  "id": "gid://shopify/Location/92790849815",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB044",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805856911639",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805856944407",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB044] MYKINGDOM LÊ LỢI VINH",
+  "address": {
+    "address1": "Số 28 Lê Lợi, TP Vinh , Tỉnh Nghệ An",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Nghệ An",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 18.6820614,
+    "longitude": 105.674865,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be6e"
+  },
+  "id": "gid://shopify/Location/92790980887",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB045",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805979922711",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805979955479",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB045] MYKINGDOM NAM ĐỊNH",
+  "address": {
+    "address1": "Số 247 Trần Hưng Đạo, TP Nam Định",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Nam Định",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.4278393,
+    "longitude": 106.1742904,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be6f"
+  },
+  "id": "gid://shopify/Location/92790915351",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB050",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805916188951",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805916221719",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB050] MYKINGDOM LÊ LỢI THÁI BÌNH",
+  "address": {
+    "address1": "Số 135 Lê Lợi ,TP.Thái Bình",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Thái Bình",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.4474231,
+    "longitude": 106.340596,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be70"
+  },
+  "id": "gid://shopify/Location/92790817047",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB051",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805839085847",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805839118615",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB051] MYKINGDOM BẮC NINH",
+  "address": {
+    "address1": "Số 310 Ngô Gia Tự, Tiền An,TP Bắc Ninh",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Bắc Ninh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.1841127,
+    "longitude": 106.0666749,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be71"
+  },
+  "id": "gid://shopify/Location/92790718743",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB054",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805748351255",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805748384023",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB054] MYKINGDOM TRẦN THÁI TÔNG",
+  "address": {
+    "address1": "D1 tòa Sunrise Building 90 Trần Thái Tông, Cầu Giấy",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0305719,
+    "longitude": 105.7877078,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d010c69882cfc21be72"
+  },
+  "id": "gid://shopify/Location/92790653207",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB068",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805681733911",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805681766679",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB068] MYKINGDOM THANH HÓA",
+  "address": {
+    "address1": "Số 106-108 Trần Phú, Điện Biên, TP Thanh Hóa",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Thanh Hóa",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 19.8086696,
+    "longitude": 105.7766909,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:01.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be94"
+  },
+  "id": "gid://shopify/Location/92790522135",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB073",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805637038359",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805637071127",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB073] MYKINGDOM LƯƠNG VĂN CAN",
+  "address": {
+    "address1": "Số 17, Lương Văn Can, phường Hàng Đào, Quận Hoàn Kiếm, TP Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0341594,
+    "longitude": 105.8502103,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.255Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be95"
+  },
+  "id": "gid://shopify/Location/92790423831",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB074",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805631664407",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805631697175",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB074] MYKINGDOM LẠC LONG QUÂN",
+  "address": {
+    "address1": "Số 210 Lạc Long Quân, Tây Hồ, Bưởi, Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.053111,
+    "longitude": 105.809174,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.255Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be96"
+  },
+  "id": "gid://shopify/Location/92790259991",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB078",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805623636247",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805623669015",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB078] MYKINGDOM THÁI NGUYÊN",
+  "address": {
+    "address1": "441 Lương Ngọc Quyến, TP Thái Nguyên",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Thái Nguyên",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.5891467,
+    "longitude": 105.8278444,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.256Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:41.175Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be97"
+  },
+  "id": "gid://shopify/Location/92790128919",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB087",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805609873687",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805609906455",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB087] MYKINGDOM HÀ TĨNH",
+  "address": {
+    "address1": "Số 129 Trần Phú, phường Trần Phú, TP. Hà Tĩnh",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Tĩnh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 18.3430736,
+    "longitude": 105.8910658,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.256Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be98"
+  },
+  "id": "gid://shopify/Location/92790030615",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB089",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805603909911",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805603942679",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB089] MYKINGDOM LÀO CAI",
+  "address": {
+    "address1": "Số 192 Hoàng Liên, phường Cốc Lếu, thị xã Lào Cai, Tỉnh Lào Cai",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Lào Cai",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 22.4930248,
+    "longitude": 103.9689198,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.264Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be99"
+  },
+  "id": "gid://shopify/Location/92789866775",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB092",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805597454615",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805597487383",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB092] MYKINGDOM QUẢNG BÌNH",
+  "address": {
+    "address1": "Số 163 Trần Hưng Đạo, phường Đồng Phú, thành phố Đồng Hới, tỉnh Quảng Bình",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Quảng Bình",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 17.4692768,
+    "longitude": 106.6120185,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be9a"
+  },
+  "id": "gid://shopify/Location/92789702935",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB100",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805578711319",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805578744087",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB100] MYKINGDOM QUANG TRUNG HÀ ĐÔNG 02",
+  "address": {
+    "address1": "Số 389 Quang Trung, Hà Đông",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9647596,
+    "longitude": 105.7684717,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be9b"
+  },
+  "id": "gid://shopify/Location/92789604631",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB106",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805504033047",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805504065815",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB106] MYKINGDOM QUẢNG TRỊ",
+  "address": {
+    "address1": "Số 12, đường Hùng Vương, Phường 1, tp Đông Hà, tỉnh Quảng Trị",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Quảng Trị",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 16.8148457,
+    "longitude": 107.1009277,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be9c"
+  },
+  "id": "gid://shopify/Location/92789473559",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB109",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805436858647",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805436891415",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB109] MYKINGDOM NGỌC LÂM",
+  "address": {
+    "address1": "Số 369 Ngọc Lâm, Long Biên, Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.047937,
+    "longitude": 105.873603,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be9d"
+  },
+  "id": "gid://shopify/Location/92789375255",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB111",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805369815319",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805369848087",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB111] MYKINGDOM TRẦN HƯNG ĐẠO - HẠ LONG",
+  "address": {
+    "address1": "Shophouse số 11A + 12A Chân đế Chung cư Lideco Hạ Long, Số 31 Trần Hưng Đạo, p.Trần Hưng Đạo, TP Hạ Long, Tỉnh Quảng Ninh",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Quảng Ninh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9560606,
+    "longitude": 107.0852424,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be9e"
+  },
+  "id": "gid://shopify/Location/92789309719",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB115",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805303558423",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805303591191",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB115] MYKINGDOM KIM MÃ HN",
+  "address": {
+    "address1": "Số 307, KIM MÃ, P. GIẢNG VÕ, Q. BA ĐÌNH, HÀ NỘI",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.030644,
+    "longitude": 105.818062,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21be9f"
+  },
+  "id": "gid://shopify/Location/92789211415",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB116",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805232910615",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805232943383",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB116] MYKINGDOM TRẦN PHÚ HẢI PHÒNG 02",
+  "address": {
+    "address1": "Số 1, 3 Cầu Đất, Phường Cầu Đất, Quận Ngô Quyền, Thành Phố Hải Phòng",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hải Phòng",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.8559597,
+    "longitude": 106.6818831,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea0"
+  },
+  "id": "gid://shopify/Location/92789178647",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB117",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805144109335",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805144142103",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB117] MYKINGDOM ĐỘI CẤN 02",
+  "address": {
+    "address1": "Số 206 Đội Cấn, Đội Cấn, Ba Đình, Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0350712,
+    "longitude": 105.8222636,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea1"
+  },
+  "id": "gid://shopify/Location/92789145879",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB118",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805041709335",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805041742103",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB118] MYKINGDOM NGUYỄN KHÁNH TOÀN",
+  "address": {
+    "address1": "Số 10, Nguyễn Khánh Toàn, Quan Hoa, Cầu Giấy, Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0355126,
+    "longitude": 105.8041999,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea2"
+  },
+  "id": "gid://shopify/Location/92789047575",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB120",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804966572311",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804966605079",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB120] MYKINGDOM LÒ ĐÚC 02",
+  "address": {
+    "address1": "Số 171 Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Tp Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0102459,
+    "longitude": 105.8604918,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea3"
+  },
+  "id": "gid://shopify/Location/92787933463",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB122",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803779977495",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803780010263",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB122] MYKINGDOM QUÁN THÁNH",
+  "address": {
+    "address1": "Số 126 đường Quán Thánh, Phường Quán Thánh, Quận Ba Đình, Tp Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0425335,
+    "longitude": 105.842388,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea4"
+  },
+  "id": "gid://shopify/Location/92788687127",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB127",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804653408535",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804653441303",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB127] MYKINGDOM HÙNG VƯƠNG VIỆT TRÌ 02",
+  "address": {
+    "address1": "Số 1955 đường Hùng Vương, Phường Gia Cẩm, TP Việt Trì, tỉnh Phú Thọ",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Phú Thọ",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.3172756,
+    "longitude": 105.3885852,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea5"
+  },
+  "id": "gid://shopify/Location/92788621591",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB128",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804571619607",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804571652375",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB128] MYKINGDOM NGÔ GIA TỰ HÀ NỘI",
+  "address": {
+    "address1": "Số 260 Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0633628,
+    "longitude": 105.8963525,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.266Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea6"
+  },
+  "id": "gid://shopify/Location/92788556055",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB130",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804489797911",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804489830679",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB130] MYKIINGDOM NINH BÌNH 02",
+  "address": {
+    "address1": "Số 1037, đường Trần Hưng Đạo, Phường Vân Giang, TP Ninh Bình, Tỉnh Ninh Bình",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Ninh Bình",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.2534519,
+    "longitude": 105.9735911,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea7"
+  },
+  "id": "gid://shopify/Location/92788424983",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB131",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804335722775",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804335755543",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB131] MYKINGDOM HỒ TÙNG MẬU 02",
+  "address": {
+    "address1": "số 434 Hồ Tùng Mậu, Phường Phú Diễn, Quận Bắc Từ Liêm, TP Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0415088,
+    "longitude": 105.7621823,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea8"
+  },
+  "id": "gid://shopify/Location/92788326679",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB132",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804270022935",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804270055703",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB132] MYKINGDOM LÊ TRỌNG TẤN 02",
+  "address": {
+    "address1": "Số 86, Lê Trọng Tấn, P. Khương Mai, Q. Thanh Xuân, TP Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9985572,
+    "longitude": 105.8283418,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bea9"
+  },
+  "id": "gid://shopify/Location/92788228375",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB137",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804192690455",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30804192723223",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB137] MYKINGDOM QUANG TRUNG HÀ ĐÔNG 03",
+  "address": {
+    "address1": "Số 100 đường Quang Trung, phường Quang Trung, Quận Hà Đông, TP Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9695591,
+    "longitude": 105.7738416,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21beaa"
+  },
+  "id": "gid://shopify/Location/92787802391",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB140",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803655786775",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803655819543",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB140] MYKINGDOM VÕ CHÍ CÔNG",
+  "address": {
+    "address1": "172 Võ Chí Công, Phường Xuân La, Quận Tây Hồ, TP Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hà Nội",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0599433,
+    "longitude": 105.8045405,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21beab"
+  },
+  "id": "gid://shopify/Location/92787704087",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB146",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803548930327",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803548963095",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB146] MKD ÂU CƠ - HN",
+  "address": {
+    "address1": "Số 51 Âu Cơ, Quảng An, Tây Hồ, Hà Nội.",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "HÀ NỘI",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 21.0608518,
+    "longitude": 105.8324469,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21beac"
+  },
+  "id": "gid://shopify/Location/92787573015",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB148",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803425329431",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803425362199",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB148] MYKINGDOM HẢI DƯƠNG 03",
+  "address": {
+    "address1": "71 Đại Lộ Hồ Chí Minh, P. Nguyễn Trãi, TP Hải Dương",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hải Dương",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9392174,
+    "longitude": 106.3298667,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21bead"
+  },
+  "id": "gid://shopify/Location/92787507479",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHB150",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803288883479",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30803288916247",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHB150] MYKINGDOM QUANG TRUNG SƠN TÂY",
+  "address": {
+    "address1": "số 69 Quang Trung, phường Quang Trung, thị xã Sơn Tây, tp Hà Nội",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "HÀ NỘI",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 20.9709194,
+    "longitude": 105.7762553,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21beae"
+  },
+  "id": "gid://shopify/Location/92790063383",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHMHOBI",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805605155095",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805605187863",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHMHOBI] CỬA HÀNG MARKET PLACE HOBIVERSE",
+  "address": {
+    "address1": "Lầu 2&3 333A Lãng Bình Thăng P9 Q11",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7648334,
+    "longitude": 106.6470105,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65240d020c69882cfc21beaf"
+  },
+  "id": "gid://shopify/Location/92789801239",
+  "activatable": true,
+  "metafields": {
+    "nodes": [
+      {
+        "key": "hub_id",
+        "value": "CHMZUZU",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805596733719",
+        "type": "single_line_text_field"
+      },
+      {
+        "key": "ax_stock_percent",
+        "value": "85.0",
+        "namespace": "hexasync",
+        "id": "gid://shopify/Metafield/30805596766487",
+        "type": "number_decimal"
+      }
+    ]
+  },
+  "name": "[CHMZUZU] CỬA HÀNG MARKET PLACE ZUZU",
+  "address": {
+    "address1": "Lầu 2&3 333A Lãng Bình Thăng P9 Q11",
+    "address2": "",
+    "provinceCode": null,
+    "zip": "",
+    "city": "Hồ Chí Minh",
+    "province": null,
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "latitude": 10.7648334,
+    "longitude": 106.6470105,
+    "phone": ""
+  },
+  "createdAt": {
+    "$date": "2023-10-09T14:24:02.285Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:09:42.057Z"
+  }
+}]
